@@ -1,0 +1,21 @@
+.search-box {
+  display: flex;
+  align-items: center;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  overflow: hidden;
+  padding-left: 16px;
+}
+
+.search-box input {
+  width: 200px;
+  height: 32px;
+  border: none;
+  outline: none;
+}
+
+.search-box button{
+    border: none;
+    padding: 8px;
+    background-color: transparent;
+}

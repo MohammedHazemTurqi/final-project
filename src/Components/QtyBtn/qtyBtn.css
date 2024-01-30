@@ -1,0 +1,40 @@
+.qty-btn .add-btn {
+  border: none;
+  background-color: rgb(0, 0, 0);
+  color: #fff;
+  border-radius: 24px;
+  height: 28px;
+  padding: 0 16px;
+  font-size: 14px;
+}
+
+.qty-btn .qty-group {
+  display: flex;
+  align-items: center;
+  background-color: rgb(0, 0, 0);
+  border-radius: 24px;
+  height: 28px;
+  padding: 0 16px;
+  width: 50px;
+  justify-content: space-between;
+}
+
+.qty-btn .qty-group .inc-btn {
+  border: none;
+  background-color: transparent;
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.qty-btn .qty-group .value {
+  color: #fff;
+}
+
+.qty-btn .qty-group .dec-btn {
+  border: none;
+  background-color: transparent;
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+}
